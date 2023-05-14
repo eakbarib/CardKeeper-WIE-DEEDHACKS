@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Card Keeper</string>
+    <string name="compass_card_msg">Compass Card is</string>
+    <string name="present">present</string>
+    <string name="lost">lost</string>
+    <string name="timer_key">com.cardkeeper.timer.key</string>
+    <string name="check_interval_label">Checking interval (Minutes)</string>
+    <string name="nfc_enabled">NFC enabled. We make sure you don\'t lost your cards!</string>
+    <string name="nfc_disabled">NFC disabled. Please enable NFC to use this app.</string>
+    <string name="channel_name">CardKeeper Notifier</string>
+    <string name="channel_description">Notifies when you lost your compass card</string>
+    <string name="card_not_present">Compass Card is not present :(</string>
+    <string name="card_not_present_title">Lost Card</string>
+
+</resources>
